@@ -8,7 +8,7 @@
             <div class="row">
             <div class="col-sx-12 col-sm-4 col-md-3">
                 <div class="user-box-login">
-                    <h3 class="">Hi, {{$loginuser->user_name}}</h3>
+                    <h3 class="">Hi, {{$loginuser->user_name}}-></h3>
                     <p> Get best offers from sellers for your service</p>
                     <a href="{{URL::to( 'services/create-request')}}" class="btn btn-primary">Post a Request</a>
                 </div>
