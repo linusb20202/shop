@@ -1,0 +1,47 @@
+.custom .active a,
+.custom .active a:hover {
+    background-color: rgb(209, 209, 209) !important;
+    color:black !important;
+}
+
+.custom{
+    color:black !important;
+    background color: #D1D1D1 !important;
+
+}
+.nav>li>a {
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+}   
+.btnstandard{
+    background-color: #fe423d;
+    color: white;
+    cursor: pointer;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border-radius: 4px;
+}
+.address{
+    margin-bottom: 20px;
+}
+.mb20{
+    margin-bottom:15px;
+}
+.bbtm{
+border-bottom: 1px solid rgb(207, 207, 207);
+}
+.pd10{
+    padding-top: 10px;
+}
+.mb10{
+    margin-bottom: 10px;
+}
+.pd5{
+    padding:0px;
+}
+.form-control.is-invalid{
+    border: 1px solid red;
+}
